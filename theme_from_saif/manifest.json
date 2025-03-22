@@ -1,0 +1,38 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Theme from Saif",
+    "theme": {
+        "images": {
+            "theme_frame": "images/frame.png",
+            "theme_ntp_background": "images/background.jpg"
+        },
+        "colors": {
+            "frame": [
+                20,
+                20,
+                25
+            ],
+            "toolbar": [
+                30,
+                30,
+                40
+            ],
+            "tab_text": [
+                255,
+                255,
+                255
+            ],
+            "background_tab": [
+                50,
+                50,
+                60
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "center",
+            "ntp_background_repeat": "no-repeat",
+            "ntp_background_size": "cover"
+        }
+    }
+}
